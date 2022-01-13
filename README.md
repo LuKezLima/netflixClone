@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img href="https://i.imgur.com/niDRiuE.png" alt="Netflixclone" />
+  <img src="https://i.imgur.com/niDRiuE.png" alt="Netflixclone" />
 
   &#xa0;
 </div>
