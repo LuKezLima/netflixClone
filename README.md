@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/LuKezLima" target="_blank">Author</a>
 </p>
 
 <br>
@@ -26,6 +26,8 @@ The following tools were used in this project:
 - [React](https://pt-br.reactjs.org/)
 
 ## :checkered_flag: Starting ##
+
+You can checkout using https://naughty-swirles-90f015.netlify.app/
 
 ```bash
 # Clone this project
