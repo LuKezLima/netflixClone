@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Netflixclone" />
+  <img href="https://i.imgur.com/niDRiuE.png" alt="Netflixclone" />
 
   &#xa0;
 </div>
@@ -17,17 +17,13 @@
 
 ## :dart: About ##
 
-Describe your project
+it is a responsive netflix clone, it was all made using React and all the data in the website is real and it was taken on https://www.themoviedb.org/
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
 - [React](https://pt-br.reactjs.org/)
-
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
 ## :checkered_flag: Starting ##
 
@@ -52,7 +48,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/LuKezLima" target="_blank">Lucas de Lima</a>
 
 &#xa0;
 
